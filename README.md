@@ -30,12 +30,3 @@ Release Date | 2021, January 08
 
 - Sideload
 
-## To compile
-
-- build/envsetup.sh
-
-- export ALLOW_MISSING_DEPENDENCIES=true
-
-- lunch 
-
-- make -jX recoveryimage
